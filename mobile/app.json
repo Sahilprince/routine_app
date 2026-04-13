@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "Routine Tracker",
+    "slug": "routine-tracker",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "extra": {
+      "eas": {
+        "projectId": "fake-id"
+      }
+    }
+  }
+}
